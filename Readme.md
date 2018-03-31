@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юлия Залозная](https://up.htmlacademy.ru/javascript/13/user/674143).
-* Наставник: `Неизвестно`.
+* Наставник: `Екатерина Кащенко`(https://htmlacademy.ru/profile/id109008).
 
 ---
 
